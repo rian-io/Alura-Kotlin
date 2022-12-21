@@ -1,10 +1,12 @@
-package pessoas
+package br.com.alura.bytebank.modelos.pessoas
 
-import sistema.Autenticavel
+import br.com.alura.bytebank.modelos.dados.Endereco
+import br.com.alura.bytebank.modelos.sistema.Autenticavel
 
 class Cliente(
-    val nome: String,
+    var nome: String,
     val cpf: String,
+    var endereco: Endereco = Endereco(),
     private val senha: Int
 ) : Autenticavel {
 

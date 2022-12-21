@@ -1,6 +1,4 @@
-package pessoas
-
-import sistema.Autenticavel
+package br.com.alura.bytebank.modelos.pessoas
 
 class Gerente(
     nome: String,

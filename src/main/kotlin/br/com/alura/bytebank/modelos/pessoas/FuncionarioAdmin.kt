@@ -1,6 +1,6 @@
-package pessoas
+package br.com.alura.bytebank.modelos.pessoas
 
-import sistema.Autenticavel
+import br.com.alura.bytebank.modelos.sistema.Autenticavel
 
 abstract class FuncionarioAdmin(
     nome: String,

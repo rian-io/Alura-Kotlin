@@ -1,6 +1,6 @@
-package sistema
+package br.com.alura.bytebank.sistema
 
-import pessoas.FuncionarioAdmin
+import br.com.alura.bytebank.modelos.sistema.Autenticavel
 
 class SistemaInterno {
 

@@ -1,4 +1,4 @@
-package sistema
+package br.com.alura.bytebank.modelos.sistema
 
 interface Autenticavel {
 

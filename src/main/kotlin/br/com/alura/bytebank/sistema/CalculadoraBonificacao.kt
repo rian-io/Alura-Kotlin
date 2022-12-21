@@ -1,6 +1,6 @@
-package sistema
+package br.com.alura.bytebank.sistema
 
-import pessoas.Funcionario
+import br.com.alura.bytebank.modelos.pessoas.Funcionario
 
 class CalculadoraBonificacao {
     var total: Double = 0.00

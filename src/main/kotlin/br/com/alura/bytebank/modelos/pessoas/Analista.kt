@@ -1,4 +1,4 @@
-package pessoas
+package br.com.alura.bytebank.modelos.pessoas
 
 class Analista(
     nome: String,
