@@ -5,22 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9307b0fe-521c-4f0b-a812-9968005a73da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/dados/Endereco.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/exceptions/FalhaAutenticacaoException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/exceptions/SaldoInsuficienteException.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/contas/Conta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/Conta.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/contas/ContaCorrente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/ContaCorrente.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/contas/ContaPoupanca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/ContaPoupanca.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/pessoas/Analista.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/pessoas/Analista.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/pessoas/Cliente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/pessoas/Cliente.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/pessoas/Diretor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/pessoas/Diretor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/pessoas/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/pessoas/Funcionario.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/pessoas/FuncionarioAdmin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/pessoas/FuncionarioAdmin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/pessoas/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/pessoas/Gerente.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sistema/Autenticavel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/sistema/Autenticavel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sistema/CalculadoraBonificacao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/sistema/CalculadoraBonificacao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sistema/SistemaInterno.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/sistema/SistemaInterno.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/Conta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/Conta.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/ContaCorrente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/ContaCorrente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/ContaPoupanca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/bytebank/modelos/contas/ContaPoupanca.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
